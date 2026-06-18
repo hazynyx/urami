@@ -1,6 +1,6 @@
 # Urami N5 Kanji
 
-An ultra-premium, interactive Single Page Application (SPA) designed to help you study JLPT N5 Kanji with style. 
+An interactive Single Page Application (SPA) designed to help you study JLPT N5 Kanji with style. 
 
 ## Features
 
